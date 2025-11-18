@@ -65,3 +65,4 @@ When navigating between characters, GSAP animations create a 3D flip effect with
 ![Image 1](public/image.png)
 ![Image Copy](public/image%20copy.png)
 ![Screenshot](public/Screenshot%202025-11-19%20010736.png)# animated-character-GSAP
+# animated-character-GSAP
