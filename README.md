@@ -1,13 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1RXu8I0g8BKJzuBhaB7f9n9xqEX6sqtVH
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
@@ -67,6 +57,10 @@ The carousel displays different characters (Naruto, Goi, Yoh, Qiwi, Luffy, Sugu,
 When navigating between characters, GSAP animations create a 3D flip effect with elastic easing for smooth transitions. The background also changes to match the selected character's color scheme.
 
 ## Images in Public Folder
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="public/image.png" />
+</div>
 
 ![Image 1](public/image.png)
 ![Image Copy](public/image%20copy.png)
