@@ -1,0 +1,5 @@
+{
+  "name": "GSAP Animated Blob Carousel",
+  "description": "A visually engaging carousel app featuring colored blobs that spin and change content on swipe. Built with React, Tailwind CSS, and GSAP for fluid animations.",
+  "requestFramePermissions": []
+}
